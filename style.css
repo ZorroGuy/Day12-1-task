@@ -1,0 +1,45 @@
+body {
+  background-color: rgba(112, 129, 113, 0.466);
+  font-family: sans-serif;
+}
+
+.child {
+  border: 1px solid red;
+}
+
+.child-search-bar {
+  border: 1px solid rgb(53, 53, 54);
+  border-radius: 10px;
+  background-color: rgb(53, 53, 54);
+  color: rgb(168, 181, 192);
+  height: 45px;
+  width: 650px;
+}
+
+.child-big-box {
+  border: 1px solid rgb(53, 53, 54);
+  background-color: rgb(53, 53, 54);
+  border-radius: 15px;
+  width: 270px;
+  height: 500px;
+}
+
+.col-auto {
+  border: 1px solid rgb(53, 53, 54);
+  background-color: rgb(53, 53, 54);
+  border-radius: 15px;
+  width: 180px;
+  height: 120px;
+}
+
+.child-footer-box {
+  border: 1px solid rgb(53, 53, 54);
+  background-color: rgb(53, 53, 54);
+  width: 1000px;
+  height: 150px;
+  border-radius: 15px;
+}
+
+.container-fluid {
+  /* border: 1px solid rgb(7, 7, 7); */
+}
